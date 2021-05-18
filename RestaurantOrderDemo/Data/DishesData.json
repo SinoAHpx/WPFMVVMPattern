@@ -1,0 +1,98 @@
+[
+  {
+    "Name": "土豆披萨",
+    "Note": "本店特色",
+    "Category": "披萨",
+    "Rate": 5
+  },
+  {
+    "Name": "番茄披萨",
+    "Note": "本店特色",
+    "Category": "披萨",
+    "Rate": 4.8
+  },
+  {
+    "Name": "牛肉披萨",
+    "Note": "本店特色",
+    "Category": "披萨",
+    "Rate": 4.9
+  },
+  {
+    "Name": "水果披萨",
+    "Note": "本店特色",
+    "Category": "披萨",
+    "Rate": 4.7
+  },
+  {
+    "Name": "培根披萨",
+    "Note": "本店特色",
+    "Category": "披萨",
+    "Rate": 4.5
+  },
+  {
+    "Name": "鸡肉披萨",
+    "Note": "",
+    "Category": "披萨",
+    "Rate": 4.5
+  },
+  {
+    "Name": "红烧肉",
+    "Note": "",
+    "Category": "家常便饭",
+    "Rate": 4.8
+  },
+  {
+    "Name": "回锅肉",
+    "Note": "",
+    "Category": "家常便饭",
+    "Rate": 4.9
+  },
+  {
+    "Name": "海鲜披萨",
+    "Note": "本店特色",
+    "Category": "披萨",
+    "Rate": 5
+  },
+  {
+    "Name": "金枪鱼披萨",
+    "Note": "本店特色",
+    "Category": "披萨",
+    "Rate": 4.5
+  },
+  {
+    "Name": "鲱鱼披萨",
+    "Note": "本店特色",
+    "Category": "披萨",
+    "Rate": 4.1
+  },
+  {
+    "Name": "奥尔良鸡翅",
+    "Note": "",
+    "Category": "风味小吃",
+    "Rate": 4.6
+  },
+  {
+    "Name": "黄金蝴蝶虾",
+    "Note": "本店特色",
+    "Category": "风味小吃",
+    "Rate": 5
+  },
+  {
+    "Name": "什锦披萨",
+    "Note": "本店特色",
+    "Category": "披萨",
+    "Rate": 4.7
+  },
+  {
+    "Name": "鳕鱼汉堡",
+    "Note": "本店特色",
+    "Category": "汉堡",
+    "Rate": 4.3
+  },
+  {
+    "Name": "鲜虾披萨",
+    "Note": "本店特色",
+    "Category": "披萨",
+    "Rate": 4.5
+  }
+]
